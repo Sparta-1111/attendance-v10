@@ -1,0 +1,16 @@
+{
+  "05A665": {
+    "code": "05A665",
+    "name": "WEB TECHNOLOGIES 1 (ICT233)",
+    "venue": "UMT 211",
+    "lat": 6.70031,
+    "lng": -1.6824,
+    "radiusKm": 0.15,
+    "open": true,
+    "owner": "admin",
+    "ownerName": "Admin",
+    "createdAt": "2026-11-10T12:26:56.515Z",
+    "hours": 2,
+    "expiresAt": "2026-11-10T14:26:56.515Z"
+  }
+}
